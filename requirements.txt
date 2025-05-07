@@ -1,0 +1,8 @@
+tensorflow
+opencv-python
+numpy
+librosa
+PySimpleGUI
+pygame
+Pillow
+matplotlib
